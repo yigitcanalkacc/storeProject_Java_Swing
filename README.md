@@ -1,7 +1,7 @@
 
 Java Swing kullanılarak yapılmıştır.
 
-IDE = Netbeans
+IDE = Netbeans ,
 Template = Nimbus
 
 Proje geliştirme aşamasındadır.
