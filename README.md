@@ -2,8 +2,10 @@
 Java Swing kullanılarak yapılmıştır.
 
 IDE = Netbeans
+Template = Nimbus
 
 Proje geliştirme aşamasındadır.
+Kurumsal katmanlı mimari ile geliştirilmesi planlanmaktadır.
 
 
 
