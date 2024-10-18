@@ -1,5 +1,9 @@
 
+Java Swing kullanılarak yapılmıştır.
 
+IDE = Netbeans
+
+Proje geliştirme aşamasındadır.
 
 
 
