@@ -4,9 +4,6 @@ Java Swing kullanılarak yapılmıştır.
 IDE = Netbeans ,
 Template = Nimbus
 
-Proje geliştirme aşamasındadır.
-Kurumsal katmanlı mimari ile geliştirilmesi planlanmaktadır.
-
 
 
 ![login](https://github.com/user-attachments/assets/981b63c4-b458-44d5-a63d-6505303cb521)
